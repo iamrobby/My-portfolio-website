@@ -46,7 +46,7 @@ export const experiences = [
   {
     title: "Virtual Engineering Intern",
     company: "MongoDB",
-    period: "2024",
+    period: "2025",
     highlights: [
       "Built a freelancing APP",
       "Wrote documentation and contributed to code reviews.",
